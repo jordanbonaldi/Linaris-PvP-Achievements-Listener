@@ -1,0 +1,4 @@
+main: net.theuniverscraft.PvpAchievementsListener.PvpAchievementsListener
+name: PvpAchievementsListener
+version: 0.1
+depend: [PvpAchievements]
